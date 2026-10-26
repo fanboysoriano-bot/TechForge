@@ -1,0 +1,93 @@
+[{
+  "_id": "cat_componentes",
+  "nombre": "Componentes de PC",
+  "slug": "componentes-pc",
+  "descripcion": "Hardware interno esencial para el ensamble y actualización de computadoras.",
+  "subcategorias": [
+    "Tarjetas Gráficas",
+    "Procesadores",
+    "Almacenamiento SSD",
+    "Tarjetas Madre",
+    "Memoria RAM"
+  ],
+  "filtros_frecuentes": [
+    "marca",
+    "especificaciones.arquitectura",
+    "especificaciones.socket",
+    "especificaciones.vram_gb",
+    "especificaciones.capacidad_gb"
+  ],
+  "activo": true
+},
+{
+  "_id": "cat_perifericos",
+  "nombre": "Periféricos",
+  "slug": "perifericos",
+  "descripcion": "Dispositivos externos de entrada y salida de alto rendimiento.",
+  "subcategorias": [
+    "Teclados Mecánicos",
+    "Ratones Gaming",
+    "Monitores",
+    "Audífonos"
+  ],
+  "filtros_frecuentes": [
+    "marca",
+    "especificaciones.tipo_switch",
+    "especificaciones.conectividad",
+    "especificaciones.tasa_refresco_hz"
+  ],
+  "activo": true
+},
+{
+  "_id": "cat_accesorios",
+  "nombre": "Accesorios de Hardware",
+  "slug": "accesorios-hardware",
+  "descripcion": "Complementos para enfriamiento, gestión de energía, cables y modding.",
+  "subcategorias": [
+    "Enfriamiento Líquido",
+    "Pasta Térmica",
+    "Soportes GPU",
+    "Cables Modulares"
+  ],
+  "filtros_frecuentes": [
+    "marca",
+    "especificaciones.dimensiones_radiador",
+    "especificaciones.iluminacion_rgb"
+  ],
+  "activo": true
+},
+{
+  "_id": "cat_redes",
+  "nombre": "Redes y Conectividad",
+  "slug": "redes-conectividad",
+  "descripcion": "Equipos para conectar, extender y mejorar la red de tu setup: routers, tarjetas, switches y adaptadores.",
+  "subcategorias": [
+    "Routers",
+    "Tarjetas de Red",
+    "Switches",
+    "Adaptadores USB"
+  ],
+  "filtros_frecuentes": [
+    "marca",
+    "precio",
+    "estandar_wifi",
+    "velocidad_mbps"
+  ],
+  "activo": true
+},
+{
+  "_id": "cat_streaming",
+  "nombre": "Streaming y Videoconferencia",
+  "slug": "streaming-videoconferencia",
+  "descripcion": "Micrófonos y cámaras para creadores de contenido, streamers y videollamadas.",
+  "subcategorias": [
+    "Micrófonos",
+    "Webcams"
+  ],
+  "filtros_frecuentes": [
+    "marca",
+    "precio",
+    "conexion"
+  ],
+  "activo": true
+}]

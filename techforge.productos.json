@@ -1,0 +1,1397 @@
+[{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a0"
+  },
+  "sku": "TF-GPU-4070S-001",
+  "nombre": "Tarjeta de Video NVIDIA GeForce RTX 4070 Super 12GB GDDR6X",
+  "marca": "ASUS",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Tarjetas Gráficas",
+  "precio": 13499,
+  "moneda": "MXN",
+  "stock": 18,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "https://storage.techforge.com/productos/rtx4070s-front.webp",
+    "https://storage.techforge.com/productos/rtx4070s-back.webp"
+  ],
+  "etiquetas": [
+    "gaming",
+    "ray-tracing",
+    "dlss3",
+    "1440p",
+    "nvidia"
+  ],
+  "especificaciones": {
+    "chipset": "NVIDIA GeForce RTX 4070 Super",
+    "arquitectura": "Ada Lovelace",
+    "vram_gb": 12,
+    "tipo_memoria": "GDDR6X",
+    "nucleos_cuda": 7168,
+    "frecuencia_boost_mhz": 2550,
+    "interfaz": "PCI Express 4.0 x16",
+    "salidas_video": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1a"
+    ],
+    "tdp_watts": 220,
+    "fuente_recomendada_watts": 650
+  },
+  "fecha_registro": "2026-10-20T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a1"
+  },
+  "sku": "TF-CPU-5700X3D-002",
+  "nombre": "Procesador AMD Ryzen 7 5700X3D 3.0GHz Base / 4.1GHz Boost",
+  "marca": "AMD",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Procesadores",
+  "precio": 4350,
+  "moneda": "MXN",
+  "stock": 25,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "https://storage.techforge.com/productos/ryzen7-5700x3d-box.webp"
+  ],
+  "etiquetas": [
+    "procesador",
+    "am4",
+    "3d-vcache",
+    "gaming",
+    "amd"
+  ],
+  "especificaciones": {
+    "socket": "AM4",
+    "arquitectura": "Zen 3",
+    "nucleos": 8,
+    "hilos": 16,
+    "frecuencia_base_ghz": 3,
+    "frecuencia_boost_ghz": 4.1,
+    "cache_l3_mb": 96,
+    "tdp_watts": 105,
+    "graficos_integrados": false,
+    "incluye_disipador": false
+  },
+  "fecha_registro": "2026-10-20T10:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a2"
+  },
+  "sku": "TF-PER-K500PRO-003",
+  "nombre": "Teclado Mecánico Gamer K500 Pro 94 Teclas Hot-Swap RGB",
+  "marca": "Machenike",
+  "categoria": "Periféricos",
+  "subcategoria": "Teclados Mecánicos",
+  "precio": 1150,
+  "moneda": "MXN",
+  "stock": 40,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "https://storage.techforge.com/productos/k500pro-top.webp",
+    "https://storage.techforge.com/productos/k500pro-side.webp"
+  ],
+  "etiquetas": [
+    "teclado",
+    "mecanico",
+    "hotswap",
+    "rgb",
+    "perifericos"
+  ],
+  "especificaciones": {
+    "formato": "90% Compacto (94 teclas)",
+    "idioma_distribucion": "Inglés (ANSI)",
+    "tipo_switch": "Huano Red Lineal",
+    "hotswap": true,
+    "material_keycaps": "PBT Double-shot",
+    "conectividad": [
+      "USB-C Cableado",
+      "2.4GHz Wireless",
+      "Bluetooth 5.0"
+    ],
+    "bateria_mah": 4000,
+    "iluminacion": "RGB direccionable por tecla"
+  },
+  "fecha_registro": "2026-10-20T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a3"
+  },
+  "sku": "TF-SSD-990PRO-004",
+  "nombre": "Unidad de Estado Sólido SSD NVMe M.2 2TB PCIe 4.0",
+  "marca": "Samsung",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Almacenamiento SSD",
+  "precio": 3299,
+  "moneda": "MXN",
+  "stock": 30,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "https://storage.techforge.com/productos/ssd-990pro-2tb.webp"
+  ],
+  "etiquetas": [
+    "ssd",
+    "nvme",
+    "m2",
+    "almacenamiento",
+    "pcie4"
+  ],
+  "especificaciones": {
+    "capacidad_gb": 2000,
+    "factor_forma": "M.2 2280",
+    "interfaz": "PCIe Gen 4.0 x4, NVMe 2.0",
+    "velocidad_lectura_mbps": 7450,
+    "velocidad_escritura_mbps": 6900,
+    "memoria_nand": "Samsung V-NAND 3-bit MLC",
+    "dram_cache": "2GB LPDDR4",
+    "tbw_durabilidad": 1200
+  },
+  "fecha_registro": "2026-10-20T11:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a4"
+  },
+  "sku": "TF-MON-24G2SP-005",
+  "nombre": "Monitor Gamer 24 Pulgadas IPS FHD 165Hz 1ms G-Sync Compatible",
+  "marca": "AOC",
+  "categoria": "Periféricos",
+  "subcategoria": "Monitores",
+  "precio": 3100,
+  "moneda": "MXN",
+  "stock": 12,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "https://storage.techforge.com/productos/aoc-24g2sp-front.webp"
+  ],
+  "etiquetas": [
+    "monitor",
+    "1080p",
+    "165hz",
+    "ips",
+    "esports"
+  ],
+  "especificaciones": {
+    "tamano_pulgadas": 23.8,
+    "resolucion": "1920 x 1080 (Full HD)",
+    "tipo_panel": "IPS",
+    "tasa_refresco_hz": 165,
+    "tiempo_respuesta_ms": 1,
+    "sincronizacion_adaptativa": "Adaptive-Sync / G-Sync Compatible",
+    "puertos": [
+      "2x HDMI 1.4",
+      "1x DisplayPort 1.2",
+      "1x VGA"
+    ],
+    "soporte_vesa": "100 x 100 mm"
+  },
+  "fecha_registro": "2026-10-20T11:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adae1e91a40b6c7868946a5"
+  },
+  "sku": "TF-ACC-AIO240-006",
+  "nombre": "Enfriamiento Líquido AIO 240mm ARGB para CPU",
+  "marca": "Cooler Master",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Enfriamiento Líquido",
+  "precio": 1850,
+  "moneda": "MXN",
+  "stock": 0,
+  "activo": false,
+  "destacado": false,
+  "imagenes": [
+    "https://storage.techforge.com/productos/cm-aio240-argb.webp"
+  ],
+  "etiquetas": [
+    "enfriamiento",
+    "liquido",
+    "argb",
+    "disipador"
+  ],
+  "especificaciones": {
+    "dimensiones_radiador": "277 x 119.6 x 27.2 mm",
+    "material_radiador": "Aluminio",
+    "cantidad_ventiladores": 2,
+    "velocidad_ventilador_rpm": "650 - 1800 RPM",
+    "nivel_ruido_dba": 27,
+    "sockets_compatibles": [
+      "AM5",
+      "AM4",
+      "LGA1700",
+      "LGA1200"
+    ],
+    "iluminacion_rgb": "ARGB Gen 2"
+  },
+  "fecha_registro": "2026-10-20T11:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f3c"
+  },
+  "sku": "TF-CPU-12400F-101",
+  "nombre": "Procesador Intel Core i5-12400F 2.5GHz Base / 4.4GHz Turbo LGA1700",
+  "marca": "Intel",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Procesadores",
+  "precio": 2899,
+  "moneda": "MXN",
+  "stock": 35,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-cpu-12400f-101-1.jpg"
+  ],
+  "etiquetas": [
+    "intel",
+    "lga1700",
+    "gaming",
+    "12va-gen",
+    "sin-graficos"
+  ],
+  "especificaciones": {
+    "socket": "LGA1700",
+    "nucleos": 6,
+    "hilos": 12,
+    "frecuencia_base_ghz": 2.5,
+    "frecuencia_turbo_ghz": 4.4,
+    "tdp_w": 65,
+    "cache_mb": 18,
+    "graficos_integrados": false,
+    "memoria_soportada": "DDR4/DDR5",
+    "disipador_incluido": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f3d"
+  },
+  "sku": "TF-CPU-R5-7600-102",
+  "nombre": "Procesador AMD Ryzen 5 7600 3.8GHz Base / 5.1GHz Boost AM5",
+  "marca": "AMD",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Procesadores",
+  "precio": 4799,
+  "moneda": "MXN",
+  "stock": 28,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-cpu-r5-7600-102-1.jpg"
+  ],
+  "etiquetas": [
+    "amd",
+    "am5",
+    "ddr5",
+    "gaming",
+    "zen4"
+  ],
+  "especificaciones": {
+    "socket": "AM5",
+    "nucleos": 6,
+    "hilos": 12,
+    "frecuencia_base_ghz": 3.8,
+    "frecuencia_turbo_ghz": 5.1,
+    "tdp_w": 65,
+    "cache_mb": 38,
+    "graficos_integrados": true,
+    "memoria_soportada": "DDR5",
+    "disipador_incluido": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f3e"
+  },
+  "sku": "TF-GPU-RX7600-103",
+  "nombre": "Tarjeta de Video AMD Radeon RX 7600 8GB GDDR6",
+  "marca": "Sapphire",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Tarjetas Gráficas",
+  "precio": 5499,
+  "moneda": "MXN",
+  "stock": 14,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-gpu-rx7600-103-1.jpg",
+    "/img/productos/tf-gpu-rx7600-103-2.jpg"
+  ],
+  "etiquetas": [
+    "amd",
+    "radeon",
+    "1080p",
+    "gddr6",
+    "gaming"
+  ],
+  "especificaciones": {
+    "vram_gb": 8,
+    "tipo_memoria": "GDDR6",
+    "bus_bits": 128,
+    "frecuencia_boost_mhz": 2655,
+    "consumo_w": 165,
+    "conectores_poder": "1x 8 pines",
+    "salidas_video": "3x DisplayPort 2.1, 1x HDMI 2.1",
+    "ranuras_ocupadas": 2,
+    "longitud_mm": 240,
+    "fuente_recomendada_w": 550
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f3f"
+  },
+  "sku": "TF-GPU-RTX4060-104",
+  "nombre": "Tarjeta de Video NVIDIA GeForce RTX 4060 8GB GDDR6 Dual",
+  "marca": "MSI",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Tarjetas Gráficas",
+  "precio": 6399,
+  "moneda": "MXN",
+  "stock": 20,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-gpu-rtx4060-104-1.jpg",
+    "/img/productos/tf-gpu-rtx4060-104-2.jpg"
+  ],
+  "etiquetas": [
+    "nvidia",
+    "rtx",
+    "dlss3",
+    "ray-tracing",
+    "gaming"
+  ],
+  "especificaciones": {
+    "vram_gb": 8,
+    "tipo_memoria": "GDDR6",
+    "bus_bits": 128,
+    "frecuencia_boost_mhz": 2460,
+    "consumo_w": 115,
+    "conectores_poder": "1x 8 pines",
+    "salidas_video": "3x DisplayPort 1.4a, 1x HDMI 2.1a",
+    "ranuras_ocupadas": 2,
+    "soporta_dlss": true,
+    "fuente_recomendada_w": 550
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f40"
+  },
+  "sku": "TF-SSD-SN850X-105",
+  "nombre": "Unidad de Estado Sólido SSD NVMe M.2 1TB WD Black SN850X PCIe 4.0",
+  "marca": "Western Digital",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Almacenamiento SSD",
+  "precio": 2499,
+  "moneda": "MXN",
+  "stock": 32,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-ssd-sn850x-105-1.jpg"
+  ],
+  "etiquetas": [
+    "nvme",
+    "pcie4",
+    "m2",
+    "1tb",
+    "alto-rendimiento"
+  ],
+  "especificaciones": {
+    "capacidad_gb": 1000,
+    "interfaz": "NVMe PCIe 4.0 x4",
+    "factor_forma": "M.2 2280",
+    "lectura_mb_s": 7300,
+    "escritura_mb_s": 6300,
+    "tipo_nand": "TLC 3D",
+    "disipador_incluido": false,
+    "tbw": 600
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f41"
+  },
+  "sku": "TF-SSD-NV2-106",
+  "nombre": "Unidad de Estado Sólido SSD NVMe M.2 500GB Kingston NV2",
+  "marca": "Kingston",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Almacenamiento SSD",
+  "precio": 849,
+  "moneda": "MXN",
+  "stock": 60,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-ssd-nv2-106-1.jpg"
+  ],
+  "etiquetas": [
+    "nvme",
+    "pcie4",
+    "m2",
+    "500gb",
+    "economico"
+  ],
+  "especificaciones": {
+    "capacidad_gb": 500,
+    "interfaz": "NVMe PCIe 4.0 x4",
+    "factor_forma": "M.2 2280",
+    "lectura_mb_s": 3500,
+    "escritura_mb_s": 2100,
+    "tipo_nand": "QLC 3D",
+    "disipador_incluido": false,
+    "tbw": 160
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f42"
+  },
+  "sku": "TF-RAM-VENG32-107",
+  "nombre": "Memoria RAM DDR5 32GB (2x16GB) 6000MHz CL36 Corsair Vengeance",
+  "marca": "Corsair",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Memoria RAM",
+  "precio": 2599,
+  "moneda": "MXN",
+  "stock": 22,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-ram-veng32-107-1.jpg"
+  ],
+  "etiquetas": [
+    "ddr5",
+    "32gb",
+    "kit-dual",
+    "6000mhz",
+    "xmp"
+  ],
+  "especificaciones": {
+    "capacidad_total_gb": 32,
+    "modulos": 2,
+    "tipo": "DDR5",
+    "velocidad_mhz": 6000,
+    "latencia": "CL36",
+    "voltaje_v": 1.35,
+    "perfil_overclock": "Intel XMP 3.0",
+    "disipador": true,
+    "iluminacion_rgb": false
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f43"
+  },
+  "sku": "TF-RAM-FURY16-108",
+  "nombre": "Memoria RAM DDR4 16GB (2x8GB) 3200MHz CL16 Kingston Fury Beast",
+  "marca": "Kingston",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Memoria RAM",
+  "precio": 899,
+  "moneda": "MXN",
+  "stock": 45,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-ram-fury16-108-1.jpg"
+  ],
+  "etiquetas": [
+    "ddr4",
+    "16gb",
+    "kit-dual",
+    "3200mhz",
+    "economica"
+  ],
+  "especificaciones": {
+    "capacidad_total_gb": 16,
+    "modulos": 2,
+    "tipo": "DDR4",
+    "velocidad_mhz": 3200,
+    "latencia": "CL16",
+    "voltaje_v": 1.35,
+    "perfil_overclock": "Intel XMP",
+    "disipador": true,
+    "iluminacion_rgb": false
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f44"
+  },
+  "sku": "TF-MB-B650TOM-109",
+  "nombre": "Tarjeta Madre MSI MAG B650 Tomahawk WiFi AM5 ATX DDR5",
+  "marca": "MSI",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Tarjetas Madre",
+  "precio": 4999,
+  "moneda": "MXN",
+  "stock": 12,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-mb-b650tom-109-1.jpg",
+    "/img/productos/tf-mb-b650tom-109-2.jpg"
+  ],
+  "etiquetas": [
+    "am5",
+    "b650",
+    "ddr5",
+    "wifi",
+    "atx"
+  ],
+  "especificaciones": {
+    "socket": "AM5",
+    "chipset": "B650",
+    "formato": "ATX",
+    "tipo_memoria": "DDR5",
+    "slots_ram": 4,
+    "ram_max_gb": 192,
+    "ranuras_m2": 3,
+    "wifi_integrado": true,
+    "pcie_principal": "PCIe 4.0 x16"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f45"
+  },
+  "sku": "TF-MB-B550AOR-110",
+  "nombre": "Tarjeta Madre Gigabyte B550 AORUS Elite V2 AM4 ATX DDR4",
+  "marca": "Gigabyte",
+  "categoria": "Componentes de PC",
+  "subcategoria": "Tarjetas Madre",
+  "precio": 2799,
+  "moneda": "MXN",
+  "stock": 16,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-mb-b550aor-110-1.jpg",
+    "/img/productos/tf-mb-b550aor-110-2.jpg"
+  ],
+  "etiquetas": [
+    "am4",
+    "b550",
+    "ddr4",
+    "atx",
+    "pcie4"
+  ],
+  "especificaciones": {
+    "socket": "AM4",
+    "chipset": "B550",
+    "formato": "ATX",
+    "tipo_memoria": "DDR4",
+    "slots_ram": 4,
+    "ram_max_gb": 128,
+    "ranuras_m2": 2,
+    "wifi_integrado": false,
+    "pcie_principal": "PCIe 4.0 x16"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f46"
+  },
+  "sku": "TF-PER-K552-111",
+  "nombre": "Teclado Mecánico Redragon Kumara K552 TKL 87 Teclas Switch Azul",
+  "marca": "Redragon",
+  "categoria": "Periféricos",
+  "subcategoria": "Teclados Mecánicos",
+  "precio": 699,
+  "moneda": "MXN",
+  "stock": 50,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-per-k552-111-1.jpg",
+    "/img/productos/tf-per-k552-111-2.jpg"
+  ],
+  "etiquetas": [
+    "teclado",
+    "mecanico",
+    "tkl",
+    "switch-azul",
+    "economico"
+  ],
+  "especificaciones": {
+    "tipo_switch": "Outemu Blue",
+    "formato": "TKL 87 teclas",
+    "conectividad": "USB cableado",
+    "iluminacion": "LED rojo",
+    "hot_swap": false,
+    "anti_ghosting": true,
+    "longitud_cable_m": 1.8,
+    "peso_g": 800
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f47"
+  },
+  "sku": "TF-MSE-G502H-112",
+  "nombre": "Mouse Gamer Logitech G502 HERO 25,600 DPI RGB 11 Botones",
+  "marca": "Logitech",
+  "categoria": "Periféricos",
+  "subcategoria": "Mouse Gamer",
+  "precio": 1099,
+  "moneda": "MXN",
+  "stock": 38,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-mse-g502h-112-1.jpg",
+    "/img/productos/tf-mse-g502h-112-2.jpg"
+  ],
+  "etiquetas": [
+    "mouse",
+    "gamer",
+    "rgb",
+    "25600dpi",
+    "pesas-ajustables"
+  ],
+  "especificaciones": {
+    "sensor": "HERO 25K",
+    "dpi_max": 25600,
+    "botones": 11,
+    "conectividad": "USB cableado",
+    "peso_g": 121,
+    "iluminacion": "RGB",
+    "tasa_sondeo_hz": 1000,
+    "pesas_ajustables": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f48"
+  },
+  "sku": "TF-MSE-DAEES-113",
+  "nombre": "Mouse Gamer Razer DeathAdder Essential 6,400 DPI",
+  "marca": "Razer",
+  "categoria": "Periféricos",
+  "subcategoria": "Mouse Gamer",
+  "precio": 649,
+  "moneda": "MXN",
+  "stock": 42,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-mse-daees-113-1.jpg"
+  ],
+  "etiquetas": [
+    "mouse",
+    "gamer",
+    "ergonomico",
+    "6400dpi",
+    "economico"
+  ],
+  "especificaciones": {
+    "sensor": "Óptico",
+    "dpi_max": 6400,
+    "botones": 5,
+    "conectividad": "USB cableado",
+    "peso_g": 96,
+    "iluminacion": "LED verde",
+    "tasa_sondeo_hz": 1000,
+    "pesas_ajustables": false
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f49"
+  },
+  "sku": "TF-MON-27GP850-114",
+  "nombre": "Monitor Gamer LG UltraGear 27\" QHD 165Hz Nano IPS 1ms",
+  "marca": "LG",
+  "categoria": "Periféricos",
+  "subcategoria": "Monitores",
+  "precio": 7499,
+  "moneda": "MXN",
+  "stock": 9,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-mon-27gp850-114-1.jpg",
+    "/img/productos/tf-mon-27gp850-114-2.jpg"
+  ],
+  "etiquetas": [
+    "monitor",
+    "qhd",
+    "165hz",
+    "nano-ips",
+    "gaming"
+  ],
+  "especificaciones": {
+    "tamano_pulgadas": 27,
+    "resolucion": "2560x1440",
+    "tipo_panel": "Nano IPS",
+    "tasa_refresco_hz": 165,
+    "tiempo_respuesta_ms": 1,
+    "hdr": "HDR10",
+    "puertos": "2x HDMI 2.0, 1x DisplayPort 1.4",
+    "soporte_vesa": "100x100",
+    "curvo": false
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4a"
+  },
+  "sku": "TF-MON-ODYG5-115",
+  "nombre": "Monitor Curvo Samsung Odyssey G5 27\" QHD 144Hz VA 1000R",
+  "marca": "Samsung",
+  "categoria": "Periféricos",
+  "subcategoria": "Monitores",
+  "precio": 5999,
+  "moneda": "MXN",
+  "stock": 11,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-mon-odyg5-115-1.jpg",
+    "/img/productos/tf-mon-odyg5-115-2.jpg"
+  ],
+  "etiquetas": [
+    "monitor",
+    "curvo",
+    "qhd",
+    "144hz",
+    "va"
+  ],
+  "especificaciones": {
+    "tamano_pulgadas": 27,
+    "resolucion": "2560x1440",
+    "tipo_panel": "VA",
+    "tasa_refresco_hz": 144,
+    "tiempo_respuesta_ms": 1,
+    "hdr": "HDR10",
+    "puertos": "1x HDMI 2.0, 1x DisplayPort 1.2",
+    "soporte_vesa": "100x100",
+    "curvo": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4b"
+  },
+  "sku": "TF-MON-24G2-116",
+  "nombre": "Monitor Gamer AOC 24G2 24\" Full HD 144Hz IPS 1ms",
+  "marca": "AOC",
+  "categoria": "Periféricos",
+  "subcategoria": "Monitores",
+  "precio": 2799,
+  "moneda": "MXN",
+  "stock": 24,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-mon-24g2-116-1.jpg",
+    "/img/productos/tf-mon-24g2-116-2.jpg"
+  ],
+  "etiquetas": [
+    "monitor",
+    "fullhd",
+    "144hz",
+    "ips",
+    "economico"
+  ],
+  "especificaciones": {
+    "tamano_pulgadas": 24,
+    "resolucion": "1920x1080",
+    "tipo_panel": "IPS",
+    "tasa_refresco_hz": 144,
+    "tiempo_respuesta_ms": 1,
+    "hdr": "No",
+    "puertos": "2x HDMI, 1x DisplayPort, 1x VGA",
+    "soporte_vesa": "100x100",
+    "curvo": false
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4c"
+  },
+  "sku": "TF-AUD-CLOUD2-117",
+  "nombre": "Audífonos Gamer HyperX Cloud II 7.1 Virtual USB / 3.5mm",
+  "marca": "HyperX",
+  "categoria": "Periféricos",
+  "subcategoria": "Audio y Headsets",
+  "precio": 1899,
+  "moneda": "MXN",
+  "stock": 30,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-aud-cloud2-117-1.jpg",
+    "/img/productos/tf-aud-cloud2-117-2.jpg"
+  ],
+  "etiquetas": [
+    "audifonos",
+    "headset",
+    "7.1",
+    "micro-desmontable",
+    "gaming"
+  ],
+  "especificaciones": {
+    "tipo": "Over-ear",
+    "conectividad": "USB / Jack 3.5mm",
+    "drivers_mm": 53,
+    "respuesta_hz": "15 - 25,000",
+    "impedancia_ohm": 60,
+    "microfono": "Desmontable con cancelación de ruido",
+    "sonido": "Virtual 7.1",
+    "peso_g": 320
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4d"
+  },
+  "sku": "TF-AUD-G435-118",
+  "nombre": "Audífonos Inalámbricos Logitech G435 LIGHTSPEED Bluetooth",
+  "marca": "Logitech",
+  "categoria": "Periféricos",
+  "subcategoria": "Audio y Headsets",
+  "precio": 1199,
+  "moneda": "MXN",
+  "stock": 36,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-aud-g435-118-1.jpg"
+  ],
+  "etiquetas": [
+    "audifonos",
+    "inalambricos",
+    "bluetooth",
+    "ligeros",
+    "lightspeed"
+  ],
+  "especificaciones": {
+    "tipo": "Over-ear",
+    "conectividad": "Lightspeed USB / Bluetooth",
+    "drivers_mm": 40,
+    "autonomia_horas": 18,
+    "microfono": "Beamforming integrado",
+    "peso_g": 165,
+    "compatibilidad": "PC, PlayStation, móviles"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4e"
+  },
+  "sku": "TF-COOL-H212BK-119",
+  "nombre": "Disipador por Aire Cooler Master Hyper 212 Black Edition 120mm",
+  "marca": "Cooler Master",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Enfriamiento",
+  "precio": 749,
+  "moneda": "MXN",
+  "stock": 40,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-cool-h212bk-119-1.jpg"
+  ],
+  "etiquetas": [
+    "disipador",
+    "aire",
+    "120mm",
+    "intel-amd",
+    "economico"
+  ],
+  "especificaciones": {
+    "tipo": "Aire",
+    "heatpipes": 4,
+    "ventilador_mm": 120,
+    "altura_mm": 158,
+    "tdp_max_w": 150,
+    "sockets": "LGA1700, LGA1200, AM5, AM4",
+    "ruido_db_max": 27,
+    "iluminacion": "Ninguna"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f4f"
+  },
+  "sku": "TF-COOL-H100I-120",
+  "nombre": "Enfriamiento Líquido AIO Corsair iCUE H100i Elite 240mm RGB",
+  "marca": "Corsair",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Enfriamiento",
+  "precio": 3399,
+  "moneda": "MXN",
+  "stock": 13,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-cool-h100i-120-1.jpg",
+    "/img/productos/tf-cool-h100i-120-2.jpg"
+  ],
+  "etiquetas": [
+    "liquido",
+    "aio",
+    "240mm",
+    "rgb",
+    "icue"
+  ],
+  "especificaciones": {
+    "tipo": "Líquido AIO",
+    "radiador_mm": 240,
+    "ventiladores": 2,
+    "ventilador_mm": 120,
+    "tdp_max_w": 250,
+    "sockets": "LGA1700, LGA1200, AM5, AM4",
+    "ruido_db_max": 36,
+    "iluminacion": "RGB direccionable"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f50"
+  },
+  "sku": "TF-PSU-MWE750-121",
+  "nombre": "Fuente de Poder Cooler Master MWE Gold 750W 80 Plus Gold Full Modular",
+  "marca": "Cooler Master",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Gestión de Energía",
+  "precio": 1899,
+  "moneda": "MXN",
+  "stock": 19,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-psu-mwe750-121-1.jpg",
+    "/img/productos/tf-psu-mwe750-121-2.jpg"
+  ],
+  "etiquetas": [
+    "fuente",
+    "750w",
+    "80plus-gold",
+    "modular",
+    "atx"
+  ],
+  "especificaciones": {
+    "potencia_w": 750,
+    "certificacion": "80 Plus Gold",
+    "modularidad": "Full modular",
+    "formato": "ATX",
+    "ventilador_mm": 120,
+    "protecciones": "OVP, OPP, SCP, UVP, OCP",
+    "conector_gpu": "PCIe 8 pines"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f51"
+  },
+  "sku": "TF-UPS-BX600-122",
+  "nombre": "No Break APC Back-UPS 600VA 330W 6 Contactos con Regulador",
+  "marca": "APC",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Gestión de Energía",
+  "precio": 1299,
+  "moneda": "MXN",
+  "stock": 17,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-ups-bx600-122-1.jpg"
+  ],
+  "etiquetas": [
+    "no-break",
+    "ups",
+    "600va",
+    "regulador",
+    "respaldo"
+  ],
+  "especificaciones": {
+    "capacidad_va": 600,
+    "potencia_w": 330,
+    "contactos_respaldo": 6,
+    "tipo": "Interactivo con AVR",
+    "voltaje_entrada": "120V",
+    "proteccion": "Sobretensión y sobrecarga",
+    "bateria": "Plomo-ácido sellada"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f52"
+  },
+  "sku": "TF-CAB-DP14-123",
+  "nombre": "Cable DisplayPort 1.4 Macho-Macho 2m 8K Nylon Trenzado",
+  "marca": "UGREEN",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Cables y Conectores",
+  "precio": 249,
+  "moneda": "MXN",
+  "stock": 90,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-cab-dp14-123-1.jpg"
+  ],
+  "etiquetas": [
+    "cable",
+    "displayport",
+    "8k",
+    "144hz",
+    "2m"
+  ],
+  "especificaciones": {
+    "longitud_m": 2,
+    "version": "DisplayPort 1.4",
+    "resolucion_max": "8K@60Hz / 4K@144Hz",
+    "conectores": "DisplayPort macho a macho",
+    "blindaje": "Nylon trenzado",
+    "contactos_oro": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f53"
+  },
+  "sku": "TF-MOD-ARGB3-124",
+  "nombre": "Kit de 3 Ventiladores ARGB 120mm con Controlador para Gabinete",
+  "marca": "Lian Li",
+  "categoria": "Accesorios de Hardware",
+  "subcategoria": "Modding e Iluminación",
+  "precio": 1999,
+  "moneda": "MXN",
+  "stock": 21,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-mod-argb3-124-1.jpg",
+    "/img/productos/tf-mod-argb3-124-2.jpg"
+  ],
+  "etiquetas": [
+    "ventiladores",
+    "argb",
+    "120mm",
+    "kit-3",
+    "modding"
+  ],
+  "especificaciones": {
+    "cantidad": 3,
+    "tamano_mm": 120,
+    "rpm_max": 2100,
+    "flujo_aire_cfm": 58.4,
+    "ruido_db": 29,
+    "iluminacion": "ARGB direccionable",
+    "conector": "4 pines PWM",
+    "incluye_controlador": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f54"
+  },
+  "sku": "TF-NET-AX55-125",
+  "nombre": "Router Inalámbrico TP-Link Archer AX55 Wi-Fi 6 AX3000 Dual Band",
+  "marca": "TP-Link",
+  "categoria": "Redes y Conectividad",
+  "subcategoria": "Routers",
+  "precio": 1399,
+  "moneda": "MXN",
+  "stock": 26,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-net-ax55-125-1.jpg",
+    "/img/productos/tf-net-ax55-125-2.jpg"
+  ],
+  "etiquetas": [
+    "router",
+    "wifi6",
+    "ax3000",
+    "dual-band",
+    "gigabit"
+  ],
+  "especificaciones": {
+    "estandar_wifi": "Wi-Fi 6 (802.11ax)",
+    "velocidad_mbps": 3000,
+    "bandas": "Dual Band",
+    "puertos_lan": "4x Gigabit",
+    "puerto_wan": "1x Gigabit",
+    "antenas": 4,
+    "mu_mimo": true,
+    "seguridad": "WPA3"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f55"
+  },
+  "sku": "TF-NET-TX20E-126",
+  "nombre": "Tarjeta de Red Wi-Fi 6 TP-Link Archer TX20E AX1800 PCIe con Bluetooth 5.2",
+  "marca": "TP-Link",
+  "categoria": "Redes y Conectividad",
+  "subcategoria": "Tarjetas de Red",
+  "precio": 599,
+  "moneda": "MXN",
+  "stock": 33,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-net-tx20e-126-1.jpg"
+  ],
+  "etiquetas": [
+    "tarjeta-red",
+    "wifi6",
+    "bluetooth",
+    "pcie",
+    "ax1800"
+  ],
+  "especificaciones": {
+    "estandar_wifi": "Wi-Fi 6 (802.11ax)",
+    "velocidad_mbps": 1800,
+    "bandas": "Dual Band",
+    "interfaz": "PCIe x1",
+    "bluetooth": "5.2",
+    "antenas": 2,
+    "seguridad": "WPA3"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f56"
+  },
+  "sku": "TF-NET-SG108-127",
+  "nombre": "Switch TP-Link TL-SG108 8 Puertos Gigabit No Administrable",
+  "marca": "TP-Link",
+  "categoria": "Redes y Conectividad",
+  "subcategoria": "Switches",
+  "precio": 449,
+  "moneda": "MXN",
+  "stock": 48,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-net-sg108-127-1.jpg"
+  ],
+  "etiquetas": [
+    "switch",
+    "8-puertos",
+    "gigabit",
+    "plug-and-play",
+    "metalico"
+  ],
+  "especificaciones": {
+    "puertos": 8,
+    "velocidad_puerto_mbps": 1000,
+    "administrable": false,
+    "carcasa": "Metal",
+    "enfriamiento": "Pasivo (sin ventilador)",
+    "capacidad_conmutacion_gbps": 16,
+    "montaje": "Escritorio / Pared"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f57"
+  },
+  "sku": "TF-NET-T3UP-128",
+  "nombre": "Adaptador USB Wi-Fi TP-Link Archer T3U Plus AC1300 Dual Band",
+  "marca": "TP-Link",
+  "categoria": "Redes y Conectividad",
+  "subcategoria": "Adaptadores USB",
+  "precio": 429,
+  "moneda": "MXN",
+  "stock": 55,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-net-t3up-128-1.jpg"
+  ],
+  "etiquetas": [
+    "adaptador",
+    "usb",
+    "wifi",
+    "ac1300",
+    "antena-alta-ganancia"
+  ],
+  "especificaciones": {
+    "estandar_wifi": "Wi-Fi 5 (802.11ac)",
+    "velocidad_mbps": 1300,
+    "bandas": "Dual Band",
+    "interfaz": "USB 3.0",
+    "antenas": 1,
+    "ganancia_dbi": 5,
+    "compatibilidad": "Windows, macOS"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f58"
+  },
+  "sku": "TF-STR-QCASTS-129",
+  "nombre": "Micrófono de Condensador USB HyperX QuadCast S RGB",
+  "marca": "HyperX",
+  "categoria": "Streaming y Videoconferencia",
+  "subcategoria": "Micrófonos",
+  "precio": 3199,
+  "moneda": "MXN",
+  "stock": 15,
+  "activo": true,
+  "destacado": true,
+  "imagenes": [
+    "/img/productos/tf-str-qcasts-129-1.jpg",
+    "/img/productos/tf-str-qcasts-129-2.jpg"
+  ],
+  "etiquetas": [
+    "microfono",
+    "usb",
+    "condensador",
+    "rgb",
+    "streaming"
+  ],
+  "especificaciones": {
+    "tipo": "Condensador",
+    "patrones_captacion": 4,
+    "conexion": "USB-C a USB-A",
+    "resolucion": "24-bit / 48kHz",
+    "iluminacion": "RGB",
+    "montaje": "Base antivibración",
+    "silenciado_tactil": true
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adefe7a638f9026c46d6f59"
+  },
+  "sku": "TF-STR-C920-130",
+  "nombre": "Webcam Logitech C920 HD Pro Full HD 1080p 30fps con Micrófono",
+  "marca": "Logitech",
+  "categoria": "Streaming y Videoconferencia",
+  "subcategoria": "Webcams",
+  "precio": 1199,
+  "moneda": "MXN",
+  "stock": 29,
+  "activo": true,
+  "destacado": false,
+  "imagenes": [
+    "/img/productos/tf-str-c920-130-1.jpg",
+    "/img/productos/tf-str-c920-130-2.jpg"
+  ],
+  "etiquetas": [
+    "webcam",
+    "1080p",
+    "videollamadas",
+    "autofocus",
+    "microfono-estereo"
+  ],
+  "especificaciones": {
+    "resolucion": "1920x1080",
+    "fps": 30,
+    "campo_vision_grados": 78,
+    "enfoque": "Automático",
+    "microfono": "Estéreo dual",
+    "conexion": "USB-A",
+    "soporte": "Clip universal / trípode"
+  },
+  "fecha_registro": {
+    "$date": "2026-10-26T16:15:00.000Z"
+  }
+}]
