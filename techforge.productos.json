@@ -38,7 +38,24 @@
     "tdp_watts": 220,
     "fuente_recomendada_watts": 650
   },
-  "fecha_registro": "2026-10-20T10:00:00Z"
+  "fecha_registro": "2026-10-20T10:00:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 11
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 7
+      }
+    ],
+    "stock_minimo": 10,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.361Z"
+    }
+  }
 },
 {
   "_id": {
@@ -76,7 +93,24 @@
     "graficos_integrados": false,
     "incluye_disipador": false
   },
-  "fecha_registro": "2026-10-20T10:15:00Z"
+  "fecha_registro": "2026-10-20T10:15:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 15
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 10
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
+  }
 },
 {
   "_id": {
@@ -117,7 +151,24 @@
     "bateria_mah": 4000,
     "iluminacion": "RGB direccionable por tecla"
   },
-  "fecha_registro": "2026-10-20T10:30:00Z"
+  "fecha_registro": "2026-10-20T10:30:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 24
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 16
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
+  }
 },
 {
   "_id": {
@@ -153,7 +204,24 @@
     "dram_cache": "2GB LPDDR4",
     "tbw_durabilidad": 1200
   },
-  "fecha_registro": "2026-10-20T11:00:00Z"
+  "fecha_registro": "2026-10-20T11:00:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 18
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 12
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
+  }
 },
 {
   "_id": {
@@ -193,7 +261,24 @@
     ],
     "soporte_vesa": "100 x 100 mm"
   },
-  "fecha_registro": "2026-10-20T11:20:00Z"
+  "fecha_registro": "2026-10-20T11:20:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 8
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 4
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
+  }
 },
 {
   "_id": {
@@ -232,7 +317,24 @@
     ],
     "iluminacion_rgb": "ARGB Gen 2"
   },
-  "fecha_registro": "2026-10-20T11:45:00Z"
+  "fecha_registro": "2026-10-20T11:45:00Z",
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 0
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 0
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": true,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
+  }
 },
 {
   "_id": {
@@ -272,6 +374,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T09:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 21
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 14
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
   }
 },
 {
@@ -312,6 +431,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T09:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 17
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 11
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.362Z"
+    }
   }
 },
 {
@@ -353,6 +489,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T09:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 9
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 5
+      }
+    ],
+    "stock_minimo": 10,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -394,6 +547,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T09:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 12
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 8
+      }
+    ],
+    "stock_minimo": 10,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -432,6 +602,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T10:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 20
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 12
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -470,6 +657,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T10:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 36
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 24
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -509,6 +713,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T10:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 14
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 8
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -548,6 +769,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T10:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 27
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 18
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.363Z"
+    }
   }
 },
 {
@@ -588,6 +826,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T11:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 8
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 4
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -628,6 +883,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T11:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 10
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 6
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -667,6 +939,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T11:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 30
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 20
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -706,6 +995,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T11:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 23
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 15
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -744,6 +1050,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T12:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 26
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 16
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -784,6 +1107,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T12:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 6
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 3
+      }
+    ],
+    "stock_minimo": 10,
+    "requiere_reabasto": true,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -824,6 +1164,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T12:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 7
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 4
+      }
+    ],
+    "stock_minimo": 10,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.364Z"
+    }
   }
 },
 {
@@ -864,6 +1221,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T12:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 15
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 9
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -903,6 +1277,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T13:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 18
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 12
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -940,6 +1331,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T13:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 22
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 14
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -978,6 +1386,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T13:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 24
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 16
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1017,6 +1442,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T13:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 8
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 5
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1055,6 +1497,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T14:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 12
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 7
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1092,6 +1551,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T14:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 11
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 6
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1128,6 +1604,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T14:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 54
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 36
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1167,6 +1660,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T14:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 13
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 8
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1206,6 +1716,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T15:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 16
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 10
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1243,6 +1770,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T15:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 20
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 13
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.365Z"
+    }
   }
 },
 {
@@ -1280,6 +1824,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T15:30:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 29
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 19
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.366Z"
+    }
   }
 },
 {
@@ -1317,6 +1878,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T15:45:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 33
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 22
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.366Z"
+    }
   }
 },
 {
@@ -1355,6 +1933,23 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T16:00:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 9
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 6
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.366Z"
+    }
   }
 },
 {
@@ -1393,5 +1988,22 @@
   },
   "fecha_registro": {
     "$date": "2026-10-26T16:15:00.000Z"
+  },
+  "gestion_stock": {
+    "almacenes": [
+      {
+        "almacen": "CDMX",
+        "cantidad": 18
+      },
+      {
+        "almacen": "Guadalajara",
+        "cantidad": 11
+      }
+    ],
+    "stock_minimo": 5,
+    "requiere_reabasto": false,
+    "ultima_actualizacion": {
+      "$date": "2026-10-26T23:44:22.367Z"
+    }
   }
 }]
